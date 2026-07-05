@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Prateek Singh Shekhawat
 
-<!--
-**prateek-singh-1210/prateek-singh-1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech Student
 
-Here are some ideas to get you started:
+💻 Passionate about Website Development and Problem Solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Basic Dsa
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Full Stack Development
+- System Design
+
+## 📫 Connect with Me
+
+- Email: prateeksingh07111210@gmail.com
+
+⭐ Thanks for visiting my profile!
