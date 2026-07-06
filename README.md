@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prateek Singh Shekhawat</h1>
 
-<h3 align="center">Frontend Developer | Java Enthusiast | Aspiring Full Stack Developer</h3>
+<h3 align="center">Frontend Developer | Java Developer | Aspiring Full Stack Developer & Software Engineer</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 
 🎓 Final Year B.Tech Student
 
-💻 Passionate about Frontend Development and Software Development
+💻 Passionate about building responsive web applications and continuously improving my software development skills.
 
 🌱 Currently learning JavaScript
 
@@ -20,38 +20,53 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-
+### 💻 Languages
 - HTML5
 - CSS3
 - Java
 - JavaScript (Learning)
 
-### Frameworks
-
+### 🎨 Frameworks
 - Bootstrap
 
-### Tools
-
+### 🔧 Developer Tools
 - Git
 - GitHub
 - VS Code
 
+### 🤖 AI Productivity
+- ChatGPT
+- AI-assisted Debugging
+- Prompt Engineering for Development
+
 ---
+## 🚀 Development Workflow
+
+I use AI responsibly to improve my development workflow by:
+
+✔ Brainstorm project ideas
+
+✔ Speed up development
+
+✔ Debug and optimize code
+
+✔ Learn new technologies faster
+
+✔ Improve documentation
+
+while ensuring I understand and implement the final solution myself.
 
 ## 📚 Currently Learning
 
 - JavaScript (ES6+)
 - DOM Manipulation
-- Git & GitHub
 - Responsive Web Development
 
 ---
 
-## 🚀 Featured Projects
+🎬 Netflix Homepage Clone
 
-- 🎬 Netflix Homepage Clone
-- 🎵 Spotify Homepage Clone *(Coming Soon)*
+🚀 More exciting projects coming soon...
 
 ---
 
@@ -61,7 +76,7 @@
 - Learn React.js
 - Learn Node.js & Express.js
 - Build Full Stack Applications
-- Secure a Software Developer Role
+- Secure a Software Engineer role
 
 ---
 
