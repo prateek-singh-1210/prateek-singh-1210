@@ -156,7 +156,7 @@ More exciting projects coming soon!
 https://github.com/prateek-singh-1210
 
 💼 LinkedIn:
-Coming Soon
+www.linkedin.com/in/prateek-singh-shekhawat
 
 ---
 
